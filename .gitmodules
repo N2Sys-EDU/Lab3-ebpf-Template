@@ -1,0 +1,6 @@
+[submodule "test_utils"]
+	path = test_utils
+	url = git@github.com:N2Sys-EDU/Lab3-ebpf-Test.git
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest.git
